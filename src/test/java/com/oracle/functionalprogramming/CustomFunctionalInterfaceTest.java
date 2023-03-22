@@ -1,6 +1,6 @@
 package com.oracle.functionalprogramming;
 
-public class CustomFunctionalInterface {
+public class CustomFunctionalInterfaceTest {
 }
 
 
